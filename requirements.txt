@@ -1,0 +1,6 @@
+selenium
+argparse
+names
+gender-guesser
+ccard
+sqlite3
